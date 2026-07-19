@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+sentence-transformers
+torch
+speechrecognition
+pydub
+librosa
+numpy
+matplotlib
+reportlab
